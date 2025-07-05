@@ -15,4 +15,11 @@ abaixo um passo a passo do que fiz até agora
 11- desconmente noImplicityAny
 12- desconmente noEmitOnError
 13- agora utilize o comando tsc, e assim será criado um index.js já dentro daa pasta prod
-14-
+14- git add *
+15- git status
+16- git add *
+17- git status 
+18- git commit -a -m "mensagem do commit"
+19- git status
+20- git push
+21 - git log (pra conferir)
